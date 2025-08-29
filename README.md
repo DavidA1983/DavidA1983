@@ -2,24 +2,13 @@ Bonjour à tous!
 
 Stagiaire AFPA depuis juin 2025 dans le module de spécialisation Developpeur Integrateur Web.
 
-#Je connais les langages suivants:   
+Je connais les langages suivants:   
 
-*HTML  
-*CSS  
-*Javascript  
-*PHP  
+-HTML  
+-CSS  
+-Javascript  
+-PHP  
 
-<!--
-**DavidA1983/DavidA1983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je souhaite poursuivre ma formation afin d'obtenir le titre de Concepteur Developpeur d'Applications.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
