@@ -1,4 +1,11 @@
-## Hi there 👋
+Bonjour à tous!
+
+Stagiaire AFPA depuis juin 2025 dans le module de spécialisation Developpeur Integrateur Web.
+Je connais les langages suivants:
+-HTML
+-CSS
+-Javascript
+-PHP
 
 <!--
 **DavidA1983/DavidA1983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
